@@ -7,14 +7,7 @@
 1.  Invoke a `function`
 1.  Know the difference between a `return` statement and `console.log`
 
-## Lecture Slides
-
-* [Intro to Functions Lecture](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
-* [Intro to Functions Pt. 2 - Function Parts](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
-
-## Exercises
-
-### Create a Simple Development Environment
+## Create a Simple Development Environment
 
 [Slides are here -->](https://docs.google.com/presentation/d/e/2PACX-1vRSb9AJwPOEob4Bv406rK9Q6uLEmnWcI34Df2FsiGGpT7wA0DfieZOnxpaCimtaRSKX-atpQIiAaJss/pub?start=false&loop=false&delayms=3000)
 
@@ -23,6 +16,13 @@
 1. Working with the person next to you, try to see if you can figure out how to open the `your-template` folder on Visual Studio Code.
 1. Once you have the folder contents open on Visual Studio Code, take a look at the contents! What do you see?
 1. For the exercises below, you will do them in the `.js` file.
+
+## Lecture Slides
+
+* [Intro to Functions Lecture](https://docs.google.com/presentation/d/e/2PACX-1vRn4Yo1FeW1K06qqnH1g1GjrIpPwyaMy4uHsRLn-v_D7UqHoH3BaltAK8thP4nB73zq5j4iaXLU501v/pub?start=false&loop=false&delayms=3000)
+* [Intro to Functions Pt. 2 - Function Parts](https://docs.google.com/presentation/d/e/2PACX-1vSLxxhqItSgZb_lIbkKuTyHdjTheyFaHJQuiewxMlkkJeZAcODTOJi2opodgCIQtPI03rXlUktEo26v/pub?start=false&loop=false&delayms=3000)
+
+## Exercises
 
 ### Basic Requirements
 

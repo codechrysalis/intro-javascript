@@ -46,15 +46,9 @@ You will need:
 
 ## Yan Fan
 
-[Twitter](https://www.twitter.com/yanarchy)
-[Facebook](https://www.facebook.com/yanfan)
-[LinkedIn](https://www.linkedin.com/in/yanfan)
-
-## Kani Munidasa
-
-[Twitter](https://www.twitter.com/munidk)
-[Facebook](https://www.facebook.com/kani.muni)
-[LinkedIn](https://www.linkedin.com/in/kanimuni)
+* [Twitter](https://www.twitter.com/yanarchy)
+* [Facebook](https://www.facebook.com/yanfan)
+* [LinkedIn](https://www.linkedin.com/in/yanfan)
 
 ## About Code Chrysalis
 
