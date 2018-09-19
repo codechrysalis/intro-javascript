@@ -14,7 +14,6 @@ You will need:
 * [Welcome Slides](https://docs.google.com/presentation/d/e/2PACX-1vRs7Zh_xmRbUxwJszgHqnbxON3tLlWn0lR1EDj_oz4dwijtzFK9h8x5Ub9TB2r7WjyOz_AeXeqnX1fh/pub?start=false&loop=false&delayms=3000)
 * [Foundations of Programming](https://github.com/codechrysalis/intro-javascript/blob/master/foundations.md)
 * [Intro to Functions](https://github.com/codechrysalis/intro-javascript/blob/master/intro-functions.md)
-* [Intro to Comparisons](https://github.com/codechrysalis/intro-javascript/blob/master/intro-comparisons.md)
 
 ## What to Do Next?
 
@@ -41,14 +40,6 @@ You will need:
 * Read/learn to read the documentation. It's hard and frustrating, just like learning any other new skill.
 * Failing a lot is completely normal. Coding is an unending parade of error messages--as long as you're getting a new error, you're making progress.
 * Stay small---focus on the next possible thing to do.
-
-# Find us on the internet
-
-## Yan Fan
-
-* [Twitter](https://www.twitter.com/yanarchy)
-* [Facebook](https://www.facebook.com/yanfan)
-* [LinkedIn](https://www.linkedin.com/in/yanfan)
 
 ## About Code Chrysalis
 
